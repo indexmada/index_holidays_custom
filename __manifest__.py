@@ -7,7 +7,7 @@
         subtitle on modules listing or apps.openerp.com""",
 
     'description': """
-        Long description of module's purpose
+        Dans menu Congé/Analyse, il y a un menu 'Congés restant'. On y trouve la liste de tous les employés, avec le nombres de jours de congés restant en colonne.
     """,
 
     'author': "Nampoina Ramarijaona, Index Consulting Madagascar",
